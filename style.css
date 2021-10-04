@@ -1,0 +1,172 @@
+html{
+  
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+color:floralwhite;
+font-size: xx-large;
+}
+.blockone{
+    background-color: #3D4BF5;
+    text-align: center;
+    height: 300px;
+    width: 32.6%;
+    padding-top: 150px;
+    float: left;
+    line-height: 0%;
+    border-style:solid;
+    border-color: #ffa700;
+    border-width:5px 5px 5px 5px;
+    }
+    .blocktwo{
+        background-color:#7BE7F0;
+        text-align: center;
+        height: 300px;
+        width: 32.6%;
+        padding-top: 150px;
+        float: left;
+        line-height: 0%;
+        border-style:solid;
+        border-color: #ffa700;
+        border-width:5px 5px 5px 5px;
+        }
+        .blockthree{
+            background-color: #3D4BF5;
+            text-align: center;
+            height: 300px;
+            width: 32.6%;
+            padding-top: 150px;
+            float: left;
+            line-height: 0%;
+            border-style:solid;
+            border-color: #ffa700;
+            border-width:5px 5px 5px 5px;
+            }
+            .blockfour{
+                background-color: #E8C4A1;
+                text-align: center;
+                height: 250px;
+                width: 85%;
+                padding-top: 200px;
+                float: left;
+                line-height: 0%;
+                border-style:solid;
+                border-color: #ffa700;
+                border-width:5px 5px 5px 5px;
+                }
+ .blockfive{
+  background-color: #EAAC21;
+ text-align: center;
+height: 250px;
+ width: 13.51%;
+ padding-top: 200px;
+ float: left;
+ line-height: 0%;
+ border-style:solid;
+border-color: #ffa700;
+ border-width:5px 5px 5px 5px;
+  }
+  .blocksix{
+    background-color: #3D4BF5;
+    text-align: center;
+    height: 250px;
+    width: 70%;
+    padding-top: 200px;
+    float: left;
+    line-height: 0%;
+    border-style:solid;
+    border-color: #ffa700;
+    border-width:5px 5px 5px 5px;
+   
+    }
+
+    .blockeight{
+        background-color: #7BE7F0;
+        text-align: center;
+        padding-top:600px;
+        height: 310px;
+        width: 28.582%;
+        float: right;
+        line-height: 0%;
+        border-style:solid;
+        border-color: #ffa700;
+        border-width:5px 5px 5px 5px;
+        
+        
+        } 
+    .blockseven{
+        background-color: #EAAC21;
+        text-align: center;
+        height: 250px;
+        width: 70%;
+        padding-top: 200px;
+        float:left; 
+        border-style:solid;
+        border-color: #ffa700;
+        border-width:5px 5px 5px 5px;
+        } 
+        .blocknine{
+            background-color: #3D4BF5;
+            text-align: center;
+            height: 120px;
+            width: 24.29%;
+            padding-top: 50px;
+            padding-bottom: 120px;
+            float: left;
+            line-height: 0%;
+            border-style:solid;
+            border-color: #ffa700;
+            border-width:5px 5px 5px 5px;
+            }  
+            .blockten{
+                background-color: #7BE7F0;
+                text-align: center;
+                height: 120px;
+                width: 24.29%;
+                padding-top: 50px;
+                padding-bottom: 120px;
+                float: left;
+                line-height: 0%;
+                border-style:solid;
+                border-color: #ffa700;
+                border-width:5px 5px 5px 5px;
+                }  
+                .blockeleven{
+                    background-color: #3D4BF5;
+                    text-align: center;
+                    height: 120px;
+                    width: 24.29%;
+                    padding-top: 50px;
+                    padding-bottom: 120px;
+                    float: left;
+                    line-height: 0%;
+                    border-style:solid;
+                    border-color: #ffa700;
+                    border-width:5px 5px 5px 5px;
+                    }  
+   .blocktwelve{
+   background-color: #EAAC21;
+  text-align: center;
+  height: 120px;
+  width: 24.29%;
+ padding-top: 50px;
+  padding-bottom: 120px;
+   float: left;
+ line-height: 0%;
+border-style:solid;
+border-color: #ffa700;
+  border-width:5px 5px 5px 5px;
+   }  
+   .blockthirteen{
+    background-color: #E8C4A1;
+   text-align: center;
+   height: 120px;
+   width: 99.3%;
+  padding-top: 100px;
+  padding-bottom: 35px;
+  float: left;
+  line-height: 0%;
+ border-style:solid;
+ border-color: #ffa700;
+   border-width:5px 5px 5px 5px;
+    }  
